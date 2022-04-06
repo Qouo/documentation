@@ -35,7 +35,7 @@ You are always welcome to network with other TrueNAS users using the various soc
 * [Reddit](https://www.reddit.com/r/truenas/)
 * [Twitter](https://twitter.com/TrueNAS)
 * [LinkedIn](https://www.linkedin.com/groups/3903140/)
-* [Facebook](https://www.facebook.com/freenascommunity)
+* [Facebook](https://www.facebook.com/truenascommunity)
 
 ### Reporting a Bug
 
